@@ -26,8 +26,10 @@ This project uses machine learning to predict the presence of heart disease base
 ## Installation
 
 1. Clone the repository:
-      git clone https://github.com/your-username/heart-failure-prediction.git
-      cd heart-failure-prediction
+   <ul>
+      <li>git clone https://github.com/your-username/heart-failure-prediction.git
+      <li>cd heart-failure-prediction
+   </ul>
 
 3. Install required Python packages:
       pip install -r requirements.txt
