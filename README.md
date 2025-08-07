@@ -32,8 +32,9 @@ This project uses machine learning to predict the presence of heart disease base
    </ul>
 
 3. Install required Python packages:
-      pip install -r requirements.txt
-
+   <ul>
+      <li>pip install -r requirements.txt
+   </ul>
 
 
 
